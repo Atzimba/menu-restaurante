@@ -4,7 +4,7 @@
 
 body {
 	font-family: 'Fira Sans', sans-serif;
-	background-color: rgba(0, 0, 0, .10);
+	background-color: #FBF0DA;
 	font-size: 16px;
 } 
 
@@ -18,9 +18,10 @@ h1 {
 }
 h2 {
 	font-size: 2em;
-	background-color: #ffc14d;
+	background-color: #CBC17D;
 	padding-top: 6px;
 	padding-bottom: 6px;
+	color: #772F1A;
 }
 .principal {
 	padding-left: 0;
@@ -34,7 +35,7 @@ h2 {
 
 /* ------- Navegación -----*/
 .navegacion {
-	background-color: #ffc14d !important;
+	background-color: #CBC17D !important;
 }
 /* ----- Tablas ------*/
 .tabla-menu {
@@ -48,7 +49,7 @@ h2 {
 /* ----- Cards ----*/
 .card {
 	margin-bottom: 20px;
-	background-color: #fff6d3;
+	background-color: #FDF8ED;
 
 }
 
